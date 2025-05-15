@@ -1,3 +1,9 @@
+## [1.2.3]
+* [#95](https://github.com/fluttercommunity/wakelock_plus/pull/95): Fix SPM integration. Thanks [diegotori](https://github.com/diegotori).
+
+## [1.2.2]
+* [#82](https://github.com/fluttercommunity/wakelock_plus/pull/82): fix: resolve symbol conflicts in wakelock_plus by updating Pigeon prefix. Thanks [weitsai](https://github.com/weitsai).
+
 ## 1.2.1
 * [#41](https://github.com/fluttercommunity/wakelock_plus/pull/41): Fix: dependency minimums adjustments. Thanks [diegotori](https://github.com/diegotori).
 
